@@ -55,3 +55,8 @@ Contributions are welcome! Please feel free to submit pull requests for:
 - Documentation improvements
 
 
+##Here is the sample output:
+
+
+![WhatsApp Image 2025-01-02 at 12 14 37_48bccd93](https://github.com/user-attachments/assets/f09c19dc-91fc-4216-8e59-6252819ddbce)
+
