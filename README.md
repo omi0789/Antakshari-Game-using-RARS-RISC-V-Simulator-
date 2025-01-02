@@ -54,12 +54,4 @@ Contributions are welcome! Please feel free to submit pull requests for:
 - Bug fixes
 - Documentation improvements
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to the RISC-V community for excellent documentation
-- Inspired by traditional Antakshari game played across India
-- Special thanks to contributors and testers
