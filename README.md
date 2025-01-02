@@ -29,21 +29,6 @@ Antakshari is a popular Indian musical game where players/teams take turns singi
 - RISC-V simulator (QEMU or Spike)
 - Make (for build automation)
 
-## Building and Running
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/riscv-antakshari.git
-
-# Navigate to project directory
-cd riscv-antakshari
-
-# Build the project
-make build
-
-# Run the game
-make run
-```
 
 ## Implementation Highlights
 
@@ -56,7 +41,7 @@ make run
 
 1. Players take turns in clockwise order
 2. Current player must sing a song starting with the last letter of previous song
-3. 30-second time limit per turn
+3. It will run for 10 rounds and who has most number of points will win the game
 4. Points awarded for valid songs
 5. Game ends when a player reaches winning score or can't continue
 
